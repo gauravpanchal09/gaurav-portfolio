@@ -1,14 +1,15 @@
-# Gaurav Panchal — Portfolio
+# Gaurav Panchal — Senior Full Stack Developer Portfolio
 
-Responsive personal portfolio for GitHub Pages.
+A responsive, editorial-style portfolio built with static HTML, CSS and JavaScript for GitHub Pages.
+
+## Content source
+Project names, descriptions, skills, experience and education are aligned to the supplied CV. Project artwork is illustrative UI concept artwork, not screenshots of the actual client applications.
 
 ## Files
-- index.html — portfolio content and sections
-- style.css — responsive layout and visual styling
-- script.js — mobile navigation and current footer year
+- `index.html` — portfolio content
+- `style.css` — responsive visual design
+- `script.js` — mobile navigation and footer year
+- `assets/` — project illustration assets
 
 ## Publish
-This is a static HTML/CSS/JavaScript site. GitHub Pages can serve it from the repository root on the main branch. Google Fonts are loaded online; system fallbacks are included.
-
-## Content note
-The profile reflects the details supplied for the updated CV. Please verify project descriptions, employment dates, and contact details before sharing publicly.
+GitHub Pages serves this static site from the repository root on the configured branch.
