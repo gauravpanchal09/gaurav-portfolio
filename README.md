@@ -1,20 +1,14 @@
-# Gaurav Panchal — Portfolio Website
+# Gaurav Panchal — Portfolio
 
-A responsive personal portfolio website based on the information in Gaurav Panchal's resume.
+Responsive personal portfolio for GitHub Pages.
 
 ## Files
-- `index.html` — page content and sections
-- `style.css` — layout, colors, responsive styling, and project illustrations
-- `script.js` — mobile navigation and current footer year
+- index.html — portfolio content and sections
+- style.css — responsive layout and visual styling
+- script.js — mobile navigation and current footer year
 
-## Run locally
-1. Extract the ZIP file.
-2. Open `index.html` in a modern browser.
+## Publish
+This is a static HTML/CSS/JavaScript site. GitHub Pages can serve it from the repository root on the main branch. Google Fonts are loaded online; system fallbacks are included.
 
-No build tools or package installation are required. Google Fonts are loaded online; system fallback fonts are used if unavailable.
-
-## Before publishing
-- Verify that the phone number and email are correct.
-- Confirm the LinkedIn/GitHub profile URLs if you want them added; the resume text did not clearly label those handles.
-- Add a downloadable resume PDF if desired.
-- Deploy the folder using GitHub Pages, Netlify, or your preferred hosting service.
+## Content note
+The profile reflects the details supplied for the updated CV. Please verify project descriptions, employment dates, and contact details before sharing publicly.
